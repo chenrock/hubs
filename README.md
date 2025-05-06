@@ -49,6 +49,8 @@ uv sync
 - **noncustomers_(4).csv**: Companies not currently paying.
 - **usage_actions_(4).csv**: Usage logs (freemium and paid activity).
 
+Be sure to add these files to `data/raw/` in order to run the pipeline.
+
 ### Column Definitions
 
 | Column | Description |
