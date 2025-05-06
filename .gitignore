@@ -1,0 +1,19 @@
+# Generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.ruff_cache
+.ipynb_checkpoints
+
+# Virtual environments
+.venv
+
+# VS Code
+.vscode
+
+# Artifacts
+data/*
+models/*
